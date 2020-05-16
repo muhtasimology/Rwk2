@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589629196647.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3392523864",
+    "id" : "AC08E624",
+    "lastKnownWriteTime" : 1589629234,
+    "last_content_update" : 1589629234491,
+    "path" : "C:/Users/muhta/OneDrive/Desktop/Rwk2/func.R",
+    "project_path" : "func.R",
+    "properties" : {
+        "cursorPosition" : "77,0",
+        "scrollLine" : "59",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
